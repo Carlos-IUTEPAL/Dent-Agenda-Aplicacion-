@@ -1,5 +1,4 @@
-# 🦷 DentAgenda-Aplicacion-
-#  Sistema de Gestión de Citas Odontológica
+# 🦷 Sistema DentAgenda - Sistema de Gestión de Citas Odontológica
 
 Sistema de control de citas e historiales médicos dentales, diseñado para el Consultorio Odontológico L. Orellano F.P.
 
